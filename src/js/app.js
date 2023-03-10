@@ -1,1 +1,4 @@
-// TODO: write code here
+import GamePlay from "./GamePlay";
+
+const game = new GamePlay();
+game.init();
